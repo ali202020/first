@@ -4,5 +4,6 @@ push    //in the server
 -------
 git diff //difference in locale repo 
 git pull //changes in the remote server
+git checkout <branchName>  //switch to branch /master
 -------
 git show //show us the last changes on the repository
