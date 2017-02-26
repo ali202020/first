@@ -7,3 +7,5 @@ git pull //changes in the remote server
 git checkout <branchName>  //switch to branch /master
 -------
 git show //show us the last changes on the repository
+------
+we can obtain the commit id througth log
