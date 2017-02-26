@@ -1,0 +1,8 @@
+add     //put the file in the staging area(it is in the local)
+commit  //in the local
+push    //in the server
+-------
+git diff //difference in locale repo 
+git pull //changes in the remote server
+-------
+git show //show us the last changes on the repository
